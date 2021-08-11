@@ -2,7 +2,7 @@
  Star Trek 1971
 ================
 ------------
- for Python
+ for Python 3.x
 ------------
 
 About
